@@ -153,3 +153,6 @@ C:\Users\Victo\Desktop\Proyectos 2022\Sistema Ventas 2022\SistemaDeVentas2022\Si
 C:\Users\Victo\Desktop\Proyectos 2022\Sistema Ventas 2022\SistemaDeVentas2022\Sistema.Web\obj\Debug\net5.0\ref\Sistema.Web.dll
 C:\Users\Victo\Desktop\Proyectos 2022\Sistema Ventas 2022\SistemaDeVentas2022\Sistema.Web\obj\Debug\net5.0\Sistema.Web.pdb
 C:\Users\Victo\Desktop\Proyectos 2022\Sistema Ventas 2022\SistemaDeVentas2022\Sistema.Web\obj\Debug\net5.0\Sistema.Web.genruntimeconfig.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Sistema Ventas 2022\SistemaDeVentas2022\Sistema.Web\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Sistema Ventas 2022\SistemaDeVentas2022\Sistema.Web\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Sistema Ventas 2022\SistemaDeVentas2022\Sistema.Web\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
